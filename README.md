@@ -1,6 +1,3 @@
-# notes-challenge
-
-
 # Notes Challenge
 
 ## Sobre o projeto
