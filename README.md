@@ -21,15 +21,3 @@ Esse projeto é um CRUD de anotações. Você pode criar, editar e remover anota
 ## Banco de dados
 - O banco é criado automaticamente pelo Docker, não precisa configurar nada.
 - As anotações ficam salvas no banco `notes_db`.
-
-## Dicas
-- Se mudar algum código, reinicie o container para ver a alteração:
-	```powershell
-	docker restart notes-challenge-frontend-1
-	docker restart notes-challenge-backend-1
-	```
-- Se der algum erro, confira se o Docker está rodando e se os containers estão ativos.
-
----
-
-Qualquer dúvida, pode olhar os READMEs das pastas ou pedir ajuda!
